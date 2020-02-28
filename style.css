@@ -1,0 +1,72 @@
+h1{
+    font-size: 50p;
+}
+body{
+    font-family: 'Poppins',sans-serif ;
+    margin: 0%;
+
+}
+.heighlight{
+    color:orange;
+
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:85%;
+}
+.top-banner{
+    background-image: url("images/banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 95px;
+}
+.standard{
+    font-size:large;
+    color: black;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(59, 59, 238),rgb(0, 183, 255));
+    padding:10px 25px;
+    margin:2%;
+}
+.middle-banner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.color-line{
+    color:orange;
+}
+.style-more{
+    box-shadow: 10px 10px 40px grey ;
+    border-radius: 5px;
+    height: 300px;
+    background-color: white;
+
+}
+.end-banner{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    
+    
+}
+#school{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#varsity{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,blue,cyan) ;
+    border-image-slice: 1;
+}
+#last{
+    color:blue;
+    text-align: center;
+}
